@@ -1,0 +1,141 @@
+{
+  "originHash" : "7a9a834017517e79eb64b7e3e8f3de62ccf9ce81043ed4f560ca1610ff5e49f7",
+  "pins" : [
+    {
+      "identity" : "cryptoswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzyzanowskim/CryptoSwift.git",
+      "state" : {
+        "revision" : "f2a627b84c1ff96f21ac2fcb623ab36142dd5512",
+        "version" : "1.10.0"
+      }
+    },
+    {
+      "identity" : "differencekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ra1028/DifferenceKit.git",
+      "state" : {
+        "revision" : "073b9671ce2b9b5b96398611427a1f929927e428",
+        "version" : "1.3.0"
+      }
+    },
+    {
+      "identity" : "fuzi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/readium/Fuzi.git",
+      "state" : {
+        "revision" : "173ec944ca6f2e8024ceb7324bcb8a3cc95a0661",
+        "version" : "4.0.1"
+      }
+    },
+    {
+      "identity" : "gcdwebserver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/readium/GCDWebServer.git",
+      "state" : {
+        "revision" : "584db89a4c3c3be27206cce6afde037b2b6e38d8",
+        "version" : "4.0.1"
+      }
+    },
+    {
+      "identity" : "grdb.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/groue/GRDB.swift.git",
+      "state" : {
+        "revision" : "36e30a6f1ef10e4194f6af0cff90888526f0c115",
+        "version" : "7.10.0"
+      }
+    },
+    {
+      "identity" : "nuke",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/Nuke.git",
+      "state" : {
+        "revision" : "63a8fcbd6621340a2410bc3e9575ac97058615f4",
+        "version" : "13.0.6"
+      }
+    },
+    {
+      "identity" : "sqlite.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stephencelis/SQLite.swift.git",
+      "state" : {
+        "revision" : "964c300fb0736699ce945c9edb56ecd62eba27a3",
+        "version" : "0.16.0"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "revision" : "6a52f3251125d74daf04fcbd5e6f08a75d074382",
+        "version" : "1.8.2"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-syntax",
+      "state" : {
+        "revision" : "050f1a346fbbac0ca2cfb15a95274f7bd1cf0ccf",
+        "version" : "604.0.0"
+      }
+    },
+    {
+      "identity" : "swift-toolkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/readium/swift-toolkit.git",
+      "state" : {
+        "revision" : "ec5f552b06a1117f3e2f50fca466058f494ae8b5",
+        "version" : "3.10.0"
+      }
+    },
+    {
+      "identity" : "swiftpublicsuffixlist",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ekscrypto/SwiftPublicSuffixList.git",
+      "state" : {
+        "revision" : "edb27573a1c47cda816b815e5ad63e99982adf58",
+        "version" : "3.1.12"
+      }
+    },
+    {
+      "identity" : "swiftsoup",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/scinfu/SwiftSoup.git",
+      "state" : {
+        "revision" : "8d6ad267714cac3ae747cefdd21f7a6665006e1f",
+        "version" : "2.13.7"
+      }
+    },
+    {
+      "identity" : "wasmkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftwasm/WasmKit.git",
+      "state" : {
+        "revision" : "a0471eaee817c523b8023d8ebb1c70ff70b7950a",
+        "version" : "0.4.1"
+      }
+    },
+    {
+      "identity" : "zip",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/marmelroy/Zip.git",
+      "state" : {
+        "revision" : "67fa55813b9e7b3b9acee9c0ae501def28746d76",
+        "version" : "2.1.2"
+      }
+    },
+    {
+      "identity" : "zipfoundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/readium/ZIPFoundation.git",
+      "state" : {
+        "revision" : "adb49c8bfe060cc187370b12fa081012a6440b86",
+        "version" : "3.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}

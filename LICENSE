@@ -1,0 +1,89 @@
+Manko Source-Available License
+Version 1.0 — 19 October 2026
+
+Copyright (C) 2026 Manko contributors. All rights reserved except as expressly
+granted below.
+
+1. Scope
+
+This license applies to the Manko source code and other original project
+material supplied with this license (the "Software"). "You" means the person
+or entity exercising permissions under this license. Third-party components,
+assets, and material identified by separate notices are governed by their own
+terms and are excluded from this license. This license does not restrict rights
+you receive independently from those third parties.
+
+This is a source-available license, not an open-source license.
+
+2. Permitted private use
+
+Subject to these terms, the copyright holders grant you a non-exclusive,
+worldwide, royalty-free permission to view, study, download, make private
+copies of, compile, modify, and run the Software for your own private use.
+You may keep private backups. Retain this license and applicable copyright,
+attribution, and third-party notices in your copies.
+
+These permissions do not include providing the Software or your modifications
+to other people, except as permitted by section 3 or by separate written
+permission under section 4.
+
+3. Source hosting and contributions
+
+When the project owner publishes the source in a public GitHub repository,
+viewing and source-code forking through GitHub's functionality are permitted
+to the extent provided by GitHub's applicable Terms of Service. This license
+does not withdraw those platform permissions or the permissions required for
+GitHub to host the repository.
+
+You may also submit proposed source changes to the official Manko project,
+including through GitHub source forks and pull requests. Include this license
+and preserve applicable notices. Acceptance of contributions is subject to the
+separate contributor agreement in CLA.md.
+
+These source-hosting and contribution permissions do not grant permission to
+publish compiled apps, release binaries, or distribute an independent app.
+
+4. Distribution requires separate written permission
+
+Except as expressly allowed in section 3, you may not publish, distribute,
+sublicense, sell, or otherwise supply the Software or modified versions to
+others without prior written permission from the applicable copyright holders
+or a person authorized to grant that permission.
+
+This restriction applies to source copies and compiled forms, whether free
+or paid, original or modified, and whether using the Manko name or a different
+name. It includes app-store submissions, public or shared TestFlight builds,
+IPA or other binary releases, download sites, and distribution of copies as
+part of another product. Renaming the app or changing its appearance does not
+remove this requirement.
+
+Request permission from the Manko project owner, identified as k800k on GitHub,
+through the official Manko-iOS/manko repository. Any permission must expressly
+identify the permitted activity and scope. A request, silence, or the public
+availability of source code is not permission to distribute.
+
+5. Ownership and branding
+
+Copyright remains with the respective copyright holders. No ownership is
+transferred. No right to use Manko's name, logos, or other marks is granted
+beyond identifying the source of the Software. Do not imply that an unofficial
+copy is an official release or is endorsed by the project.
+
+Rights not expressly granted are reserved. No provision limits exceptions,
+limitations, or other rights that applicable law does not allow to be waived.
+
+6. Termination
+
+Your permissions under this license terminate if you breach its terms. After
+termination, stop exercising the permissions granted by this license unless
+the relevant rights holder reinstates them in writing. This provision does
+not terminate independently granted third-party or non-waivable rights.
+
+7. Warranty and liability
+
+To the extent permitted by applicable law, the Software is provided "AS IS",
+without warranties of any kind, including merchantability, fitness for a
+particular purpose, or non-infringement. To that same extent, the copyright
+holders and contributors are not liable for claims, damages, or other liability
+arising from the Software or its use. Nothing in this license excludes rights
+or liability that applicable law does not permit to be excluded.
