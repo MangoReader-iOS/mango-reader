@@ -1,38 +1,39 @@
 # Manko Contributor License Agreement
 
-Version 2.0 — 19 October 2026
+Version 3.0 — 19 October 2026
 
-This agreement covers contributions intentionally submitted for inclusion in Manko. The project owner is the person identified as **k800k** on GitHub, maintaining the project through **Manko-iOS/manko**. Authorized maintainers may exercise the permissions below on the project owner's behalf.
+This agreement is between you and the Manko project owner, the person identified as **k800k** on GitHub, maintaining **Manko-iOS/manko**. A contribution is work you intentionally submit for inclusion in Manko and explicitly identify in your acceptance below. You may accept for an organization only if authorized to bind it.
 
-## Ownership and official distribution
+## 1. Copyright and alternative licensing
 
-You retain copyright in your contributions. For contributions you explicitly submit under this agreement, you grant the project owner a worldwide, non-exclusive, royalty-free copyright license to:
+You keep ownership of your contributions. You grant the project owner a copyright license that applies worldwide, lasts for the duration of copyright, is non-exclusive, requires no fees or royalties, and is irrevocable to the extent permitted by law.
 
-- Use, reproduce, modify, and incorporate them into Manko.
-- Publish their source as part of Manko under the **Manko Source-Available License version 1.0** in [LICENSE](LICENSE).
-- Build and distribute official Manko releases containing them, free or paid, including through the App Store, TestFlight, and direct downloads.
-- Grant specific written permissions for others to distribute Manko containing them under section 4 of that license, and authorize service providers to carry out these activities on the project's behalf.
+This license permits the project owner to copy, modify, create derivative works from, publicly display, publicly perform, distribute, and sublicense your contributions and resulting derivative works. It includes permission to offer them under GPLv3 or other terms, including proprietary and commercial licenses, and to distribute releases through the App Store, TestFlight, and other channels. No further permission or payment to you is required for these activities.
 
-This grant is intended to remain effective for accepted contributions and may not be withdrawn merely because you stop contributing. It does not transfer ownership, authorize use in unrelated products, or grant a general right to relicense your contributions under a different public license. Any broader grant requires your separate agreement.
+This agreement gives these additional licensing rights to the project owner; it does not automatically give them to other maintainers or recipients. Other recipients must comply with GPLv3 or obtain a separate license from someone authorized to grant it. Nothing here restricts their existing GPL rights. You remain free to use and separately license work you own, but cannot grant rights in other people's work without authority.
 
-To the extent you control patent claims necessarily infringed by your contribution alone or its combination with Manko as submitted, you also grant the project owner and authorized recipients permission under those claims to carry out the activities expressly permitted above.
+## 2. Patents
 
-You remain free to use and separately license work you own. That does not grant you redistribution rights in the rest of Manko or in other contributors' work. Other recipients of Manko receive the permissions in LICENSE or in their separate written authorization, not the project owner's distribution grant in this agreement.
+For patent claims you control that are necessarily infringed by your contribution alone or by its combination with Manko as submitted, you grant the project owner and recipients authorized by the project owner a worldwide, non-exclusive, royalty-free patent license. It permits making, having made, using, offering for sale, selling, importing, and otherwise transferring the contribution and that combination. It lasts for the life of the applicable patents and is irrevocable except as follows.
 
-## Authority and third-party material
+If a recipient brings a patent claim against you alleging that your contribution or Manko incorporating it infringes a patent, the patent license you grant that recipient under this agreement terminates when the claim is filed. This includes counterclaims and cross-claims. This clause does not withdraw any independently granted rights.
 
-You confirm that you have authority to grant these rights, including any required employer or other rights-holder approval. Identify third-party material, its origin, and its license in your submission; preserve its notices and do not grant rights you do not hold. Inclusion of that material requires separate review.
+## 3. Authority and third-party material
 
-Except for these statements of authority and disclosure, contributions are supplied without warranties to the extent permitted by applicable law. This agreement does not require you to provide ongoing support or waive non-waivable legal rights.
+You confirm that you have the authority to grant these rights, including any required approval from an employer or another rights holder. Clearly identify any third-party material, its origin, and its license or other restrictions in your submission, and preserve its notices. Do not represent that you can grant rights you do not hold.
 
-## Acceptance
+Third-party material remains subject to its own terms. This agreement does not give the project owner permission to relicense material beyond the rights its owners actually grant. Maintainers must review such material before merging it.
+
+Except for the statements above, contributions are provided without warranties to the extent permitted by law. You have no obligation to provide ongoing support. Nothing in this agreement excludes rights or obligations that applicable law does not permit to be excluded.
+
+## 4. Acceptance
 
 Each contributor must post the following acceptance in the pull request before their contribution is merged, replacing the bracketed fields:
 
-> I, [GitHub username], accept the Manko Contributor License Agreement version 2.0 for my contributions in this pull request through commit [full commit SHA]. I confirm that I have authority to grant its rights, including official Manko distribution and the specific distribution permissions it describes.
+> I, [GitHub username], accept the Manko Contributor License Agreement version 3.0 for my contributions in this pull request through commit [full commit SHA]. I confirm that I have authority to grant its rights, including sublicensing and distribution under alternative, proprietary, and commercial terms.
 
-Acceptance must cover the latest contributed commit. Each contributor accepts for their own work; accepting for someone else requires authority to do so. Maintainers must review and retain the acceptance comment with the pull-request record. This repository has no automated CLA enforcement. Do not post private addresses or identity documents.
+Acceptance must cover the latest contributed commit. Each contributor accepts for their own work; accepting for someone else requires authority to do so. Maintainers must review and retain the acceptance comment with the pull-request record and the version of this agreement accepted. This repository has no automated CLA enforcement. Do not post private addresses or identity documents.
 
-## Agreement versions
+## 5. Agreement versions
 
-Version 2.0 requires fresh acceptance. Acceptance of version 1.0 does not count as acceptance of this agreement or change the permissions for any contribution previously accepted under that version. Future changes likewise require fresh agreement.
+Version 3.0 requires fresh acceptance. Acceptance of version 1.0 or 2.0 does not grant the broader rights in this version. Existing contributions remain subject to the permissions actually granted for them unless their rights holders separately agree. Future amendments likewise require fresh agreement.
