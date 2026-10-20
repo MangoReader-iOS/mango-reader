@@ -1,4 +1,4 @@
-name: Manko
+name: MangoReader
 options:
   bundleIdPrefix: com.k800k
   deploymentTarget:
@@ -24,30 +24,30 @@ settings:
     ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS: YES
     CODE_SIGN_STYLE: Automatic
     DEVELOPMENT_TEAM: ""
-    MANKO_ANILIST_OAUTH_CLIENT_ID: ""
-    MANKO_MYANIMELIST_OAUTH_CLIENT_ID: ""
+    MANGOREADER_ANILIST_OAUTH_CLIENT_ID: ""
+    MANGOREADER_MYANIMELIST_OAUTH_CLIENT_ID: ""
     CURRENT_PROJECT_VERSION: 6
     MARKETING_VERSION: 1.0.0
 
 packages:
-  MankoKit:
-    path: Packages/MankoKit
+  MangoReaderKit:
+    path: Packages/MangoReaderKit
 
 targets:
-  Manko:
+  MangoReader:
     type: application
     platform: iOS
     sources:
-      - path: Manko
+      - path: MangoReader
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.k800k.manko
-        PRODUCT_NAME: Manko
+        PRODUCT_NAME: MangoReader
         INFOPLIST_KEY_LSApplicationCategoryType: public.app-category.entertainment
         SWIFT_DEFAULT_ACTOR_ISOLATION: MainActor
-        INFOPLIST_FILE: Manko/Resources/Info.plist
-        CODE_SIGN_ENTITLEMENTS: Manko/Resources/Manko.entitlements
-        "CODE_SIGN_ENTITLEMENTS[sdk=macosx*]": Manko/Resources/Manko-Catalyst.entitlements
+        INFOPLIST_FILE: MangoReader/Resources/Info.plist
+        CODE_SIGN_ENTITLEMENTS: MangoReader/Resources/MangoReader.entitlements
+        "CODE_SIGN_ENTITLEMENTS[sdk=macosx*]": MangoReader/Resources/MangoReader-Catalyst.entitlements
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
         ENABLE_PREVIEWS: YES
         SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD: NO
@@ -65,14 +65,14 @@ targets:
           fi
 
           missing=""
-          if [ -z "${MANKO_ANILIST_OAUTH_CLIENT_ID:-}" ]; then
-            missing="MANKO_ANILIST_OAUTH_CLIENT_ID"
+          if [ -z "${MANGOREADER_ANILIST_OAUTH_CLIENT_ID:-}" ]; then
+            missing="MANGOREADER_ANILIST_OAUTH_CLIENT_ID"
           fi
-          if [ -z "${MANKO_MYANIMELIST_OAUTH_CLIENT_ID:-}" ]; then
+          if [ -z "${MANGOREADER_MYANIMELIST_OAUTH_CLIENT_ID:-}" ]; then
             if [ -n "$missing" ]; then
-              missing="$missing, MANKO_MYANIMELIST_OAUTH_CLIENT_ID"
+              missing="$missing, MANGOREADER_MYANIMELIST_OAUTH_CLIENT_ID"
             else
-              missing="MANKO_MYANIMELIST_OAUTH_CLIENT_ID"
+              missing="MANGOREADER_MYANIMELIST_OAUTH_CLIENT_ID"
             fi
           fi
 
@@ -82,24 +82,24 @@ targets:
             exit 1
           fi
     dependencies:
-      - package: MankoKit
-        product: MankoDomain
-      - package: MankoKit
-        product: MankoData
-      - package: MankoKit
-        product: MankoSources
-      - package: MankoKit
-        product: MankoExtensions
-      - package: MankoKit
-        product: MankoReaders
-      - package: MankoKit
-        product: MankoSync
+      - package: MangoReaderKit
+        product: MangoReaderDomain
+      - package: MangoReaderKit
+        product: MangoReaderData
+      - package: MangoReaderKit
+        product: MangoReaderSources
+      - package: MangoReaderKit
+        product: MangoReaderExtensions
+      - package: MangoReaderKit
+        product: MangoReaderReaders
+      - package: MangoReaderKit
+        product: MangoReaderSync
 
 schemes:
-  Manko:
+  MangoReader:
     build:
       targets:
-        Manko: all
+        MangoReader: all
     run:
       config: Debug
     profile:

@@ -1,8 +1,8 @@
-# Manko Contributor License Agreement
+# Mango Reader Contributor License Agreement
 
 Version 3.0 — 19 October 2026
 
-This agreement is between you and the Manko project owner, the person identified as **k800k** on GitHub, maintaining **Manko-iOS/manko**. A contribution is work you intentionally submit for inclusion in Manko and explicitly identify in your acceptance below. You may accept for an organization only if authorized to bind it.
+This agreement is between you and the Mango Reader project owner, the person identified as **k800k** on GitHub, maintaining **MangoReader-iOS/mango-reader**. A contribution is work you intentionally submit for inclusion in Mango Reader and explicitly identify in your acceptance below. You may accept for an organization only if authorized to bind it.
 
 ## 1. Copyright and alternative licensing
 
@@ -14,9 +14,9 @@ This agreement gives these additional licensing rights to the project owner; it 
 
 ## 2. Patents
 
-For patent claims you control that are necessarily infringed by your contribution alone or by its combination with Manko as submitted, you grant the project owner and recipients authorized by the project owner a worldwide, non-exclusive, royalty-free patent license. It permits making, having made, using, offering for sale, selling, importing, and otherwise transferring the contribution and that combination. It lasts for the life of the applicable patents and is irrevocable except as follows.
+For patent claims you control that are necessarily infringed by your contribution alone or by its combination with Mango Reader as submitted, you grant the project owner and recipients authorized by the project owner a worldwide, non-exclusive, royalty-free patent license. It permits making, having made, using, offering for sale, selling, importing, and otherwise transferring the contribution and that combination. It lasts for the life of the applicable patents and is irrevocable except as follows.
 
-If a recipient brings a patent claim against you alleging that your contribution or Manko incorporating it infringes a patent, the patent license you grant that recipient under this agreement terminates when the claim is filed. This includes counterclaims and cross-claims. This clause does not withdraw any independently granted rights.
+If a recipient brings a patent claim against you alleging that your contribution or Mango Reader incorporating it infringes a patent, the patent license you grant that recipient under this agreement terminates when the claim is filed. This includes counterclaims and cross-claims. This clause does not withdraw any independently granted rights.
 
 ## 3. Authority and third-party material
 
@@ -30,7 +30,7 @@ Except for the statements above, contributions are provided without warranties t
 
 Each contributor must post the following acceptance in the pull request before their contribution is merged, replacing the bracketed fields:
 
-> I, [GitHub username], accept the Manko Contributor License Agreement version 3.0 for my contributions in this pull request through commit [full commit SHA]. I confirm that I have authority to grant its rights, including sublicensing and distribution under alternative, proprietary, and commercial terms.
+> I, [GitHub username], accept the Mango Reader Contributor License Agreement version 3.0 for my contributions in this pull request through commit [full commit SHA]. I confirm that I have authority to grant its rights, including sublicensing and distribution under alternative, proprietary, and commercial terms.
 
 Acceptance must cover the latest contributed commit. Each contributor accepts for their own work; accepting for someone else requires authority to do so. Maintainers must review and retain the acceptance comment with the pull-request record and the version of this agreement accepted. This repository has no automated CLA enforcement. Do not post private addresses or identity documents.
 
